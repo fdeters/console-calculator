@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="console-calculator.cpp">
+    <ClCompile Include="ConsoleCalculator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Calculator.cpp">
